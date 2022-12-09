@@ -122,7 +122,7 @@ header {
     background: rgb(227, 226, 226);
     z-index: 900;
     top: 70px;
-    left: 350px;
+    right: 0;
     border-bottom-right-radius: 40px;
     border-bottom-left-radius: 40px;
 }
